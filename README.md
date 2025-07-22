@@ -1,5 +1,3 @@
 # ModelPredictorModel
 
-A continuation of my Time series model to predict price for Natural gas 
-
-Here is a model that predicts future price of the commodity
+This section introduces a predictive model based on linear regression designed to forecast future prices of a natural gas commodity. The model utilizes historical time series data to identify patterns and generate price predictions that can assist in trading decisions and risk management.
